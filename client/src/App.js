@@ -25,6 +25,7 @@ const useStyles = makeStyles((theme) => ({
     marginLeft: '15px',
   },
   wrapper: {
+    position: 'relative',
     display: 'flex',
     flexDirection: 'column',
     alignItems: 'center',
